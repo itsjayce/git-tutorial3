@@ -1,1 +1,1 @@
-console.log("Wow I'm small! commit 3");
+console.log("conflict 2");
